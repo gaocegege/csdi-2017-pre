@@ -6,9 +6,11 @@ DL: 2017.5.7(Week 12)
 
 [Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency](https://www.drkp.net/papers/latency-socc14.pdf)
 
+SOCC'14
+
 ## Note
 
-
+[./notes/gaocegege.md](./notes/gaocegege.md)
 
 ## Slides
 
