@@ -1,5 +1,7 @@
 # CSDI 2016 presentation
 
+DL: 2017.5.7(Week 12)
+
 ## Paper
 
 [Tales of the Tail: Hardware, OS, and Application-level Sources of Tail Latency](https://www.drkp.net/papers/latency-socc14.pdf)
